@@ -1,6 +1,9 @@
-# Deep Learning Architectures from Scratch
+# 🧠 Deep Learning Architectures from Scratch
 
 Welcome to my Deep Learning Architectures repository! This project aims to implement various deep learning models from scratch, focusing on a clear, code-first approach to understanding the fundamentals of deep learning.
+
+Current implementations: 
+- MLP
 
 ## 📜 Project Overview
 In this repository, I will be implementing well-known deep learning architectures from scratch using Python. The goal is to deepen understanding by building each component manually, without relying on high-level libraries like TensorFlow or PyTorch for the core calculations. This will involve constructing neural networks, activation functions, loss functions, optimizers, and more!

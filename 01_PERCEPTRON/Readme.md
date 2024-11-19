@@ -1,6 +1,6 @@
 # The Perceptron
 
-![alt text](assets/perceptron.png)
+![perceptron](assets/perceptron.png)
 
 The Perceptron is one of the earliest models of a neural network and a foundational element in the history of artificial intelligence and machine learning. Its simple structure and learning mechanism laid the groundwork for modern deep learning. Here’s an overview of the perceptron’s history, concept, and impact.
 
